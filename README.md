@@ -20,7 +20,7 @@
 
 | Protocol    | Category                  | Findings 🔎|
 |---------------------------------------|-----------|----------|
-| [Nimbi](https://nimbiwolfpack.com)  | ERC404 | [4H 4M](https://github.com/auditszark/audits/blob/main/private/2024-11-nimbi.pdf)
+| [Nimbi](https://nimbiwolfpack.com)  | ERC404 | [4H 4M](https://github.com/auditszark/audits/blob/main/zarkk-audit-report.pdf)
 
 
 My submissions for all audit contests can be found [here](https://audits.sherlock.xyz/watson/zarkk01), too.
